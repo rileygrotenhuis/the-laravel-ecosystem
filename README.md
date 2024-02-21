@@ -1,5 +1,13 @@
 # The Laravel Ecosystem
 
+This is the demo application that I used for my talk on "The Laravel Ecosystem" at the Springfield Devs meetup on March 6, 2024. The talk discussed the Laravel framework and its surrounding ecosystem with highly suppored packages that can be used to build modern web applications.
+
+### Listen to the talk!
+
+[![The Laravel Ecosystem](https://secure.meetupstatic.com/photos/event/6/2/a/a/600_519265258.webp?w=750)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+**Sike!** it's a bit too early for that. You aren't supposed to be here yet.
+
 ## Prerequisites
 
 Before you can run this application, ensure you have the following software installed on your system:
