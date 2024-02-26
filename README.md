@@ -8,6 +8,10 @@ This is the demo application that I used for my talk on "The Laravel Ecosystem" 
 
 **Sike!** it's a bit too early for that. You aren't supposed to be here yet.
 
+### Read the blog post!
+
+Feel free to follow along [blog post](https://dev.to/rileygrotenhuis/the-laravel-ecosystem-1jbj) I wrote about the Laravel Ecosystem to create your own demo application.
+
 ## Prerequisites
 
 Before you can run this application, ensure you have the following software installed on your system:
