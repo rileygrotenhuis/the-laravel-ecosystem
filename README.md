@@ -4,7 +4,7 @@ This is the demo application that I used for my talk on "The Laravel Ecosystem" 
 
 ### Listen to the talk!
 
-[![The Laravel Ecosystem](https://secure.meetupstatic.com/photos/event/6/2/a/a/600_519265258.webp?w=750)]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.youtube.com/watch?v=kHjGp0Xtinw))
+[![The Laravel Ecosystem](https://secure.meetupstatic.com/photos/event/6/2/a/a/600_519265258.webp?w=750)](https://www.youtube.com/watch?v=kHjGp0Xtinw&t=1s)
 
 ### Read the blog post!
 
