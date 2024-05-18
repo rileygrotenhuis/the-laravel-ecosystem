@@ -8,7 +8,7 @@ This is the demo application that I used for my talk on "The Laravel Ecosystem" 
 
 ### Read the blog post!
 
-Feel free to follow along [blog post](https://dev.to/rileygrotenhuis/the-laravel-ecosystem-1jbj) I wrote about the Laravel Ecosystem to create your own demo application.
+Feel free to follow along in this [blog post](https://dev.to/rileygrotenhuis/the-laravel-ecosystem-1jbj) I wrote about the Laravel Ecosystem to create your own demo application.
 
 ## Prerequisites
 
